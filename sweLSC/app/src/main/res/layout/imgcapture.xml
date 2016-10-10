@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CAPTURE - 3"
+        android:id="@+id/capture3"
+        android:onClick="process"
+        android:layout_above="@+id/importButton3"
+        android:layout_toStartOf="@+id/calendar" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/ocrText"
+        android:layout_above="@+id/capture4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:layout_alignParentEnd="false"
+        android:inputType="none" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calendar"
+        android:id="@+id/calendar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/import_pic"
+        android:id="@+id/importButton3"
+        android:layout_marginLeft="-5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/calendar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/capture_4"
+        android:id="@+id/capture4"
+        android:layout_above="@+id/importButton3"
+        android:layout_toEndOf="@+id/calendar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMPORT PIC - 4"
+        android:id="@+id/importButton4"
+        android:layout_alignTop="@+id/calendar"
+        android:layout_toEndOf="@+id/calendar" />
+
+</RelativeLayout>

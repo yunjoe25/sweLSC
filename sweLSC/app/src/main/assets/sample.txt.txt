@@ -1,0 +1,107 @@
+Classroom: Aderhold 214
+
+12:00-1:15 p.m. MW
+
+Instructor: John Smith
+
+Office: 25 Park Place, suite 725
+
+Phone:              404-413- 5728
+
+E-mail: jsmith99@student.gsu.edu
+
+Website: http://cs.gsu.edu/
+
+Office Hours: 1:30 p.m.-2:30 p.m. MW or by appointment
+
+TA: Jaman Bhola
+
+Email: jbhola@student.gsu.edu
+
+Pre-requisites: CSC 2310 with grade of C or higher. Note that this is required - IF YOU DO NOT HAVE
+
+THE PREREQUISITES (OR ITS EQUIVALENT FROM ANOTHER INSTITION) ON YOUR
+
+TRANSCRIPT, WITHDRAW FROM THIS COURSE NOW.
+
+Catalog Description:
+
+An introduction to programming at the level of the operating system. Topics include editors, system calls,
+
+programming tools, files, processes, interprocess communication, and shells.
+
+Course Objectives:
+
+This course is designed to give students experience in using a high-level language ( C ) to interface with an
+
+operating system (UNIX). Students will learn fundamental UNIX concepts, including files, processes,
+
+interprocess communication, and shells. They will also gain experience writing and testing C programs using
+
+UNIX editors and programming tools.
+
+1) UNIX commands: basic commands for non-programmers, advanced utilities like awk, grep.
+
+2) UNIX shell programming: bash script.
+
+3) C Programming: syntax and basic data structures.
+
+4) Files - UNIX file system, file permissions, file system calls (fcntl, creat, open, read, write, close, lseek).
+
+5) Processes - Basic concepts, daemon processes, process creation and termination, process diagnostics (ps, kill,
+
+Text: Glass and Ables, Unix for Programmers and Users, Prentice Hall, ISBN 0-13- 046553-4.
+
+Midterm: The Midterm will be given on Wednesday, October 26, 2016.
+
+Final Exam: The Final Exam will be given on Monday, December 5, 2016.
+
+Grading Policy:
+
+1) Six homeworks: 30%
+
+2) Two projects: 30%
+
+3) Midterm exam: 20%
+
+4) Final exam: 20%
+
+• Attendance: Daily attendance is strongly encouraged. Any student missing a lesson is responsible for any
+
+material assigned or covered in class during his or her absence.
+
+• All assignment to be handed in must be done individually unless the instructor explicitly states otherwise. Any
+
+assignment or portion of an assignment that is duplicated or group result will receive a grade of zero for all parties
+
+concerned. The same policy applies to projects.
+
+• Late work: 10% late penalty per 24-hour within 7 calendar days of the original due date. No submission accepted
+
+after that.
+
+• Makeup exams will only be given in the case of serious illness or emergency. You must personally contact the
+
+instructor before the scheduled exam.
+
+• Assignments and exams (except final exam) will be graded and returned in approximately one week after it was
+
+collected or given respectively. Should there be a delay, the students will be notified.
+
+• Absolutely no lame excuses please, such as &quot;I have to go home early, allow me to take the test on Apr 1&quot;, or &quot;I had
+
+a fight with my girlfriend, which affects my performance&quot;. Even when they are true, they are still lame.
+
+• Please advise the instructor if you have a documented disability that needs to be accommodated.
+
+• No extra work in the next semester given to improve your grade. Any queries about the grades should be brought
+
+to the attention of the instructor within a week after the graded students’ works have been returned to the class.
+
+• Turn off cell phones and keep them off the desk during the lectures. Text messaging during class is strictly
+
+prohibited.
+
+Statement: This course syllabus provides a general plan for the course; deviations may be necessary.
+
+
